@@ -43,5 +43,19 @@
             android:layout_height="wrap_content"
             android:padding="10dp"
             android:text="@string/latte_title"/>
+
+        <TextView
+            android:id="@+id/cappuccino"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/cappuccino_title"/>
+
+        <TextView
+            android:id="@+id/espresso"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/espresso_title"/>
     </LinearLayout>
 </ScrollView>
